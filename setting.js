@@ -1,1 +1,1 @@
-db.settings.updateOne({"_id": "default"},{$set: {web: "test11.beperfeqta.com/test11"}})
+db.settings.updateOne({"_id": "default"},{$set: {web: "test123.beperfeqta.com/test123"}})
